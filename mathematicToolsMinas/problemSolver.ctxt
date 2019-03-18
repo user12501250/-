@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=problemSolver
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ problemSolver\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=problemSolver()
+comment2.params=
+comment2.target=void\ turnOn()
+comment3.params=
+comment3.target=void\ turnOff()
+comment4.params=numbers
+comment4.target=int\ sumIntegers(int[])
+comment5.params=numbers\ cond\ val
+comment5.target=int\ sumIfIntegers(int[],\ java.lang.String,\ int)
+comment5.text=\r\n\ This\ arithemetic\ operation\ functions\ in\ order\ to\ sum\ the\ values\ on\ certain\ numbers.\r\n\ Depending\ of\ the\ arithmetic\ symbol\ a\ loop\ will\ begin\ until\ the\ desired\ symbol\ will\ be\ chosen\r\n\ If\ the\ user\ didn't\ insert\ a\ number,the\ system\ will\ inform\ him\ that\ this\ is\ not\ accepted.\r\n\ The\ same\ applies\ to\ countIfIntegers.\r\n
+comment6.params=numbers\ cond\ val
+comment6.target=int\ countIfIntegers(int[],\ java.lang.String,\ int)
+comment7.params=num1\ num2\ num3
+comment7.target=void\ averageThreeIntegers(int,\ int,\ int)
+comment7.text=\r\n\ public\=\ Can\ be\ seen\ by\ everyone.\r\n\ void\=\ No\ value\ is\ returned\r\n\ int\=\ akeraios\ number\u201A\ (32\ bits)\r\n\ double\=\ dekadikos\ arithmos\r\n\ average\=\ O\ M.O\ ton\ trion\ timon.\r\n\ System.out.println\=\ Prints\ out\ the\ sentence\ with\ the\ brackets\ next\ to\ it.\r\n\ The\ goal\ of\ averageThreeIntegers\ is\ to\ find\ the\ average\ between\ three\ numbers.\r\n
+comment8.params=num1\ num2\ num3
+comment8.target=int\ sumThreeIntegers(int,\ int,\ int)
+comment9.params=a\ b
+comment9.target=void\ firstDegreeEquation(double,\ double)
+numComments=10
